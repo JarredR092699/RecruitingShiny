@@ -25,7 +25,9 @@ In the example below, we filter for recruits in the year **2024** who committed 
 - Plot the actual latitude and longitude of the players high school instead of hometown to get a better understanding of where the best high school football teams in each state are located.
 
 **Contributing**
+
 If you're interested in contributing, please submit a pull request or open an issue with ideas for improving the app. 
 
 **License**
+
 This project is licensed under the MIT license. See the `LICENSE` file for details.
